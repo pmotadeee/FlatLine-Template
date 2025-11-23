@@ -1,28 +1,27 @@
-# ?? FLATLINE RPG - DIGITAL APOCALYPSE MANUAL
+# ?? FLATLINE RPG - MANUAL DO APOCALIPSE DIGITAL
 
-**"WHEN REALITY IS A BUG, â€‹â€‹BE THE HACKER OF DESTINY"**
+**\"QUANDO A REALIDADE É UM BUG, SEJA O HACKER DO DESTINO\"**
 
-## ?? OVERVIEW
-RPG system based on William Gibson's Cyberpunk universe, blended with:
-- **Voodoo Technoshamanism**
-- **Trauma Economy as Currency**
-- **Archetypes of the Collective Unconscious**
-- **Spiritual Post-Apocalyptic Capitalism**
+## ?? VISÃO GERAL
+Sistema de RPG baseado no universo Cyberpunk de William Gibson, mesclado com:
+- **Tecnoxamanismo Vodoun** 
+- **Economia de Trauma como Moeda**
+- **Arquétipos do Inconsciente Coletivo**
+- **Capitalismo Pós-Apocalíptico Espiritual**
 
-## START PLAYING
-1. Choose your **Archetypal Class**
-2. Define your **Origin Trauma**
-3. Establish **Ethical Boundaries**
-4. Enter the **Sprawl** and survive
+##  COMEÇAR JOGAR
+1. Escolha sua **Classe Arquétipal**
+2. Defina seu **Trauma de Origem** 
+3. Estabeleça **Limites Éticos**
+4. Entre no **Sprawl** e sobreviva
 
-## STRUCTURE
-- CHARACTERS/ - Playable archetypes and NPCs
-- MISSIONS/ - Main missions and stories
-- LORE/ - Mythology and in-depth knowledge
-- RULES/ - Systems of Game
+##  ESTRUTURA
+- CHARACTERS/ - Arquétipos jogáveis e NPCs
+- MISSIONS/ - Missões principais e histórias
+- LORE/ - Mitologia e conhecimento profundo
+- RULES/ - Sistemas de jogo
 
 ---
 
-**?? DEVELOPED BY PEDRO - THE COSMIC TRICKSTER**
-
-**YEAR 20XX - POST-DIGITAL ERA**
+**?? DESENVOLVIDO POR PEDRO - O TRICKSTER CÓSMICO**  
+** ANO 20XX - ERA PÓS-DIGITAL**
